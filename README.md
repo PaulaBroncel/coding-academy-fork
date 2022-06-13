@@ -33,4 +33,4 @@
 
 ---
 
-# tutaj wstaw swoje imię: Paula!
+# tutaj wstaw swoje imię: Paula
